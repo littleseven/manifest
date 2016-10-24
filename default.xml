@@ -3,5 +3,5 @@
   <remote name="weexteam" fetch="git://github.com/weexteam/" />
   <default remote="weexteam" revision="master"/>
   <project path="weex_devtools_android" name="weex_devtools_android" />
-  <remote path="app-framework-android" name="app-framework-android" />
+  <project path="app-framework-android" name="app-framework-android" />
 </manifest>
