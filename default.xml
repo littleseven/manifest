@@ -2,6 +2,6 @@
 <manifest>
   <remote name="weexteam" fetch="git://github.com/weexteam/" />
   <default remote="weexteam" revision="master"/>
-  <project path="weex_devtools_android" name="weex_devtools_android" />
+  <project path="weex_devtools_android/inspector" name="inspector" />
   <project path="app-framework-android" name="app-framework-android" />
 </manifest>
